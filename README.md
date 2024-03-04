@@ -28,7 +28,7 @@ MY PROFILE
  
 <p align="center">
 Used Languages 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Source-Ze&layout=compact&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Source-VR&layout=compact&theme=tokyonight" align="center">
 
 
 🏆 TROPHIES 🏆
@@ -41,7 +41,7 @@ Used Languages
 
 [![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
-<a href="https://t.me/UP_UO"><img title="Telegram" src="https://img.shields.io/static/v1?label=Mr.MODY&message=TG&color=blue-green"></a>
+<a href="https://t.me/TA_YS_ON_1"><img title="Telegram" src="https://img.shields.io/static/v1?label=Mr.TAYSON&message=TG&color=blue-green"></a>
 
 <b>VISITORS</b>
 
